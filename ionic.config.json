@@ -1,0 +1,8 @@
+{
+  "name": "MyHomeAgent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "abf33c1a"
+}
